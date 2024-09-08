@@ -58,9 +58,9 @@ Here are some of the projects:
 ---
 
 ### 💬 Let's connect!
-- LinkedIn: [https://www.linkedin.com/in/se-harvindersingh/] 
-- Portfolio: [https://troopl.com/harvindersingh]
-- https://github.com/Harvi1-max/Harvi1-max/blob/main/README.md
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/se-harvindersingh/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?logo=github&logoColor=white)](https://troopl.com/harvindersingh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Harvi1-max/Harvi1-max/blob/main/README.md)
 
 ---
 
