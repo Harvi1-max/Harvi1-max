@@ -22,3 +22,24 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a focus on
 ### 🌱 What I’m learning
 - I am currently in Le Wagon Bootcamp for Web Development & AI, where i am learning the core principles of web development & AI, concepts of OOPs principles and its types, methods, and instance variable.
 - Experimenting in Ruby and Ruby on Rails.
+
+---
+
+### 🚀 Projects
+Here are some of the projects:
+
+#### [Lego Application](https://github.com/Harvi-max/Lego)
+- **Description**: The project involved creating an online Lego store for a local Lego retailer, where customer could browse and purchase lego bricks, and contact the store for special requests or unlisted items. Additionally, the admin interface was designed to enable efficient inventory management, including uploading customised Lego bricks, monitoring stock availability, and analysing sales data.
+- **Technologies**: HTML, CSS, JavaScript, Node.js, Express.js, Multer.js, UUID.
+
+#### [Comment-bank Tool](https://github.com/HarviSingh/Comment-Bank-App)
+- **Description**: During this project, I analysed the existing application developed by my supervisor, however, it was built with a JSON configuration file with no server, therefore, it wouldn’t store data permanently created by the user as there is no rigid data storage facility, as well as being non-accessible by other colleagues as there is no hosting server. Therefore, I built an application with a server where personalised comments are stored in the cloud for easy access at any time and allowed multiple mentors to collaborate simultaneously.
+- **Technologies**: Webpack for bundling, React.js and Bootstrap v5, node.js, webSockets for collaboration, AWS S3 Bucket to store comment data.
+
+---
+
+### 💬 Let's connect!
+- LinkedIn: [https://www.linkedin.com/in/se-harvindersingh/] 
+- Portfolio: [https://troopl.com/harvindersingh]
+https://github.com/Harvi1-max/Harvi1-max/blob/main/README.md
+---
