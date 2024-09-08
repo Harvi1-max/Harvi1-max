@@ -16,3 +16,9 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a focus on
 ### 🔭 What I’m currently working on
 - JS Marketplace – JS Market is an online application being built on HTML, CSS, and Javascript where its customer can buy its products online and see the history of the products they bought. There will be to user interfaces, one for clients and one for admin. Admin user interface will show the orders of the items that needs to be shipped & see its sale in graphs.
 - It's a small business as the market is very competitive and the client had reduction in sales now they wants to move online to offer their products.
+
+---
+
+### 🌱 What I’m learning
+- I am currently in Le Wagon Bootcamp for Web Development & AI, where i am learning the core principles of web development & AI, concepts of OOPs principles and its types, methods, and instance variable.
+- Experimenting in Ruby and Ruby on Rails.
