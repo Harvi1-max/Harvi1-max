@@ -41,5 +41,5 @@ Here are some of the projects:
 ### 💬 Let's connect!
 - LinkedIn: [https://www.linkedin.com/in/se-harvindersingh/] 
 - Portfolio: [https://troopl.com/harvindersingh]
-https://github.com/Harvi1-max/Harvi1-max/blob/main/README.md
+- https://github.com/Harvi1-max/Harvi1-max/blob/main/README.md
 ---
