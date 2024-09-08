@@ -5,11 +5,30 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a focus on
 ---
 
 ### 🛠️ Technologies & Tools
-- **Languages**: HTML, CSS, JavaScript, Ruby
-- **Frameworks**: React, Node.js, Rails
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Tools**: Git, Docker, VSCode, Figma, Overleaf, PlantUML
 
+#### Languages
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat)
+
+#### Frameworks
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Rails](https://img.shields.io/badge/-Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=flat)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+
+#### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?logo=overleaf&logoColor=white&style=flat)
+![PlantUML](https://img.shields.io/badge/-PlantUML-3D3D3D?logo=plantuml&logoColor=white&style=flat)
 
 ---
 
@@ -42,4 +61,5 @@ Here are some of the projects:
 - LinkedIn: [https://www.linkedin.com/in/se-harvindersingh/] 
 - Portfolio: [https://troopl.com/harvindersingh]
 - https://github.com/Harvi1-max/Harvi1-max/blob/main/README.md
+
 ---
