@@ -38,8 +38,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a focus on
 
 ---
 
-### 🌱 What I’m learning
-![Le Wagon](<img src="https://cdn-images-1.medium.com/max/280/1*cen9t2Qh4zLWzQzlGF4CUg@2x.png" alt="Le Wagon" width="100"/>)  
+### 🌱 <img src="https://cdn-images-1.medium.com/max/280/1*cen9t2Qh4zLWzQzlGF4CUg@2x.png" alt="Le Wagon" width="100"/> What I’m learning
 - I am currently in **[Le Wagon Bootcamp](https://www.lewagon.com/london)** for Web Development & AI, where I am learning the core principles of web development & AI, concepts of OOP principles and its types, methods, and instance variables.
 - Experimenting with Ruby and Ruby on Rails.
 
